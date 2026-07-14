@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Kartik%20Gautam&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Networking%20%26%20AI%2FML&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Kartik%20Gautam&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20-%20Networking%20and%20AI%20ML&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+network+protocol+tooling+in+Python+%26+C%2B%2B;MPLS+%7C+BGP+%7C+BFD+%7C+VLAN+automation;Exploring+RAG+pipelines+%26+multi-agent+systems;Open+to+SDE+%2F+Networking+%2F+AI+roles!" alt="Typing SVG" />
@@ -55,7 +55,7 @@ Deep Packet Inspection engine in C++ — raw byte parsing, TLS SNI extraction, a
 [![Live](https://img.shields.io/badge/Live-View-7dd3fc?style=flat-square)](https://github.com/kartikgtm7)
 [![Code](https://img.shields.io/badge/Code-Repo-7dd3fc?style=flat-square&logo=github)](https://github.com/kartikgtm7)
 
-<img src="https://github-readme-stats-6d7ltt7s4-kartikgtm7.vercel.app/api/pin/?username=kartikgtm7&repo=dpi-engine&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats-6d7ltt7s4-kartikgtm7.vercel.app/api/pin/?username=kartikgtm7&repo=DPI-Engine&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
 #### 🧠 Vector Database with HNSW + RAG Pipeline
 Custom vector database benchmarking HNSW vs. KD-Tree vs. brute-force search, paired with a RAG pipeline running Llama models locally via Ollama/llama.cpp.
@@ -69,7 +69,7 @@ Custom vector database benchmarking HNSW vs. KD-Tree vs. brute-force search, pai
 [![Live](https://img.shields.io/badge/Live-View-7dd3fc?style=flat-square)](https://github.com/kartikgtm7)
 [![Code](https://img.shields.io/badge/Code-Repo-7dd3fc?style=flat-square&logo=github)](https://github.com/kartikgtm7)
 
-<img src="https://github-readme-stats-6d7ltt7s4-kartikgtm7.vercel.app/api/pin/?username=kartikgtm7&repo=vector-db-rag&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats-6d7ltt7s4-kartikgtm7.vercel.app/api/pin/?username=kartikgtm7&repo=VectorDB&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
 ---
 
@@ -85,7 +85,11 @@ Custom vector database benchmarking HNSW vs. KD-Tree vs. brute-force search, pai
 
 **Networking**
 
-<img src="https://skillicons.dev/icons?i=wireshark" />
+![MPLS](https://img.shields.io/badge/MPLS-7dd3fc?style=flat-square&logoColor=black)
+![BGP](https://img.shields.io/badge/BGP-7dd3fc?style=flat-square&logoColor=black)
+![BFD](https://img.shields.io/badge/BFD-7dd3fc?style=flat-square&logoColor=black)
+![VLAN](https://img.shields.io/badge/VLAN-7dd3fc?style=flat-square&logoColor=black)
+<img src="https://skillicons.dev/icons?i=linux" />
 
 **AI / ML**
 
@@ -111,7 +115,7 @@ Custom vector database benchmarking HNSW vs. KD-Tree vs. brute-force search, pai
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kartikgtm7&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=kartikgtm7&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
 </div>
 
 ### 📈 Contribution Graph
