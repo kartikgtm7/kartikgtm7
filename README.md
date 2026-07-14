@@ -55,7 +55,7 @@ Deep Packet Inspection engine in C++ — raw byte parsing, TLS SNI extraction, a
 [![Live](https://img.shields.io/badge/Live-View-7dd3fc?style=flat-square)](https://github.com/kartikgtm7)
 [![Code](https://img.shields.io/badge/Code-Repo-7dd3fc?style=flat-square&logo=github)](https://github.com/kartikgtm7)
 
-<img src="https://github-readme-stats-6d7ltt7s4-kartikgtm7.vercel.app/api/pin/?username=kartikgtm7&repo=DPI-Engine&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats-6d7ltt7s4-kartikgtm7.vercel.app/api/pin/?username=kartikgtm7&repo=DPI-Engine&theme=nord&cb=1&border_color=7dd3fc&title_color=7dd3fc" />
 
 #### 🧠 Vector Database with HNSW + RAG Pipeline
 Custom vector database benchmarking HNSW vs. KD-Tree vs. brute-force search, paired with a RAG pipeline running Llama models locally via Ollama/llama.cpp.
@@ -69,7 +69,7 @@ Custom vector database benchmarking HNSW vs. KD-Tree vs. brute-force search, pai
 [![Live](https://img.shields.io/badge/Live-View-7dd3fc?style=flat-square)](https://github.com/kartikgtm7)
 [![Code](https://img.shields.io/badge/Code-Repo-7dd3fc?style=flat-square&logo=github)](https://github.com/kartikgtm7)
 
-<img src="https://github-readme-stats-6d7ltt7s4-kartikgtm7.vercel.app/api/pin/?username=kartikgtm7&repo=VectorDB&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats-6d7ltt7s4-kartikgtm7.vercel.app/api/pin/?username=kartikgtm7&repo=VectorDB&theme=nord&cb=1&border_color=7dd3fc&title_color=7dd3fc" />
 
 ---
 
@@ -105,17 +105,11 @@ Custom vector database benchmarking HNSW vs. KD-Tree vs. brute-force search, pai
 
 <div align="center">
 
-<img src="https://github-readme-stats-6d7ltt7s4-kartikgtm7.vercel.app/api?username=kartikgtm7&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" width="48%" />
-<img src="https://github-readme-stats-6d7ltt7s4-kartikgtm7.vercel.app/api/top-langs/?username=kartikgtm7&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="48%" />
+<img src="https://github-readme-stats-6d7ltt7s4-kartikgtm7.vercel.app/api?username=kartikgtm7&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&cb=1" width="48%" />
+<img src="https://github-readme-stats-6d7ltt7s4-kartikgtm7.vercel.app/api/top-langs/?username=kartikgtm7&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&cb=1" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=kartikgtm7&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%" />
 
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=kartikgtm7&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
 </div>
 
 ### 📈 Contribution Graph
